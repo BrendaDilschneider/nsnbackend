@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\nsnbackend\bin\Debug\netcoreapp2.1\nsnbackend.deps.json
+C:\Users\user\Desktop\nsnbackend\bin\Debug\netcoreapp2.1\nsnbackend.runtimeconfig.json
+C:\Users\user\Desktop\nsnbackend\bin\Debug\netcoreapp2.1\nsnbackend.runtimeconfig.dev.json
+C:\Users\user\Desktop\nsnbackend\bin\Debug\netcoreapp2.1\nsnbackend.dll
+C:\Users\user\Desktop\nsnbackend\bin\Debug\netcoreapp2.1\nsnbackend.pdb
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.csprojAssemblyReference.cache
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.AssemblyInfo.cs
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.dll
+C:\Users\user\Desktop\nsnbackend\obj\Debug\netcoreapp2.1\nsnbackend.pdb
