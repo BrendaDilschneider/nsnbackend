@@ -26,5 +26,14 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
+  },
+  "Logging": {
+    "IncludeScopes": false, 
+    "LogLevel": {
+        "Default": "Warning"
+    },
+    "ConectionStrings": {
+      "DefaultConection": "server=localhost; port=3306; database=nosomosnada; user=root; password=;"
+    }
   }
 }
